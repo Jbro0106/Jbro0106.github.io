@@ -8,3 +8,4 @@ As journalism changes, journalists ought to evolve with it. I attempt to thoroug
 
 
 file:///C:/Users/Jacob/Downloads/Lehigh_University_2024_Fall_Semester_Enrollment_Percentage_by_College_Percentage_of_College_enrollment_chartbuilder.svg
+
