@@ -10,3 +10,4 @@ As journalism changes, journalists ought to evolve with it. I attempt to thoroug
 
 
 ! [alt tag] (https://raw.githubusercontent.com/Jbro0106/Jbro0106.github.io/main/Top_5_NHL_teams_in_Powerplay_Goals_Powerplay_Goals_chartbuilder%20(3).svg=true)
+![Enrollment](https://raw.githubusercontent.com/Jbro0106/Jbro0106.github.io/main/Top_5_NHL_teams_in_Powerplay_Goals_Powerplay_Goals_chartbuilder%20(3).svg?raw=true)
