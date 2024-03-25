@@ -17,4 +17,4 @@ As journalism changes, journalists ought to evolve with it. I attempt to thoroug
 
 
 
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1c1ObbBgz3lRZgcm5pY7yz3zHscUJjRI&ehbc=2E312F" width="640" height="480"></iframe>
